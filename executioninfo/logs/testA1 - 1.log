@@ -1,0 +1,4 @@
+2017-09-12 00:43:10,575 DEBUG [testA1 - 1] Executing testA1
+2017-09-12 00:43:10,661 DEBUG [testA1 - 1] openBrowser---------Browser
+2017-09-12 00:43:10,661 DEBUG [testA1 - 1] navigate---------url
+2017-09-12 00:43:10,662 DEBUG [testA1 - 1] Ending testA1
